@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562332113894.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3779375451",
+    "id" : "8D96D78D",
+    "lastKnownWriteTime" : 1562743600,
+    "last_content_update" : 1562924300629,
+    "path" : "~/Desktop/VE414/Project/data_visual.R",
+    "project_path" : "data_visual.R",
+    "properties" : {
+        "cursorPosition" : "9,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

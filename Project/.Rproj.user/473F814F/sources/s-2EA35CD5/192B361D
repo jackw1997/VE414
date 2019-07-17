@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1562333003560.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "192B361D",
+    "lastKnownWriteTime" : 1560342672,
+    "last_content_update" : 1560342672,
+    "path" : "~/Desktop/VE414/Assignments/Assignment 3/Q2.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "77,56",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
